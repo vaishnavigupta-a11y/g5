@@ -1,0 +1,12 @@
+add imprtantfb1 using feature branch 
+git clone url
+git cehkout -b fb1 (new barch craee -b ,and swutcg to that branach)
+dioff bt git checkout -b fc1 (branc create the  siwtc)
+git checout 2fc1(just baranch siwtwch alredy exsutung barach)
+file cahnes
+git stsyus 
+git add '.
+git stsyus
+git commmit -m "fc1"
+git push -u origin fc1
+git pull (go to github and od taht tung manually)
