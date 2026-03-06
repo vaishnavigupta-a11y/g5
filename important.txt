@@ -1,1 +1,8 @@
 nothing important hehehe
+mergieng dircetly without craeting pull req undasefe
+git clone
+git ssttsu
+chage'
+git add .
+git commit -m"cc1"
+git push -u origin master
